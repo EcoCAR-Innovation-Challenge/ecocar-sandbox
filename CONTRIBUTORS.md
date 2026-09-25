@@ -8,6 +8,7 @@
 
 Add your entry directly below this sentence.
 
+- Rodrigo Gaeta Lopez, CAV Lead for GT
 - Josh Wilke
 - Chris Cline
 - Daniel Williams (@daiawi), CAV Lead ERAU
