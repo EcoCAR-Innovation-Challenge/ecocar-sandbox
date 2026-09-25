@@ -8,11 +8,9 @@
 
 Add your entry directly below this sentence.
 
-<<<<<<< HEAD
-* Josh Wilke
-* Chris Cline
-* The quick brown fox jumped over the lazy t-rex
-
-=======
 - Josh Wilke
->>>>>>> parent of dae5609 (Added self to contrib list (#3))
+- Rodrigo Gaeta Lopez, CAV Lead for GT
+- Josh Wilke
+- Chris Cline
+- Daniel Williams (@daiawi), CAV Lead ERAU
+- Jackson Moody (jcksnmdy) CAV Lead HEVT
