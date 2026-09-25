@@ -9,3 +9,4 @@
 Add your entry directly below this sentence.
 
 - Josh Wilke
+- Daniel Williams (@daiawi), CAV Lead ERAU
