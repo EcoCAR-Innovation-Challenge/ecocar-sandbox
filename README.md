@@ -20,3 +20,7 @@ This repository is intentionally small and intentionally contentious. It models 
 6. Run `git status` whenever you are uncertain.
 
 The facilitator provides the exercise sequence.
+
+## Future exercise idea
+
+Add a visualization of stopping distance at several speeds.
