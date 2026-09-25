@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# C/C++
+*.o
+*.so
+*.a
+CMakeFiles/
+CMakeCache.txt
+
+# ROS / colcon
+build/
+install/
+log/
+
+# Vehicle data and generated artifacts
+*.bag
+*.mcap
+*.onnx
+*.pt
+*.log
+
+# Editor and operating system
+.DS_Store
+.idea/
+.vscode/

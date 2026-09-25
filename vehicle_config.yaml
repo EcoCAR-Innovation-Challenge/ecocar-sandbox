@@ -1,0 +1,12 @@
+vehicle:
+  name: workshop-av
+  max_speed_mps: 8.0
+  wheelbase_m: 2.75
+
+safety:
+  minimum_time_headway_s: 2.0
+  autonocross_enabled: true
+
+planner:
+  update_rate_hz: 20
+  route_frame: map
