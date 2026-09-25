@@ -9,7 +9,9 @@ def stopping_distance_m(speed_mps: float, deceleration_mps2: float) -> float:
     if speed_mps < 0:
         raise ValueError("speed_mps must be non-negative")
 
-    # The workshop hotfix adds validation for a non-positive deceleration.
+    if deceleration_mps2 <= 0:
+        raise ValueError("deceleration_mps2 must be positive")
+
     return speed_mps**2 / (2 * deceleration_mps2)
 
 
