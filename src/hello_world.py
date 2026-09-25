@@ -7,5 +7,6 @@ while true:
     num_2 = input(r"enter the denominator: ")
     answer = num_1/num_2
     print(f"the answer is {answer}")
+    time.sleep(10)
 
     
