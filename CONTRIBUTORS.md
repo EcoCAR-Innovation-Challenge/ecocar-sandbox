@@ -8,7 +8,11 @@
 
 Add your entry directly below this sentence.
 
-* Josh Wilke do da cha cha like a sissy girl
-* Chris Cline like a do da cha cha
+<<<<<<< HEAD
+* Josh Wilke
+* Chris Cline
 * The quick brown fox jumped over the lazy t-rex
 
+=======
+- Josh Wilke
+>>>>>>> parent of dae5609 (Added self to contrib list (#3))
