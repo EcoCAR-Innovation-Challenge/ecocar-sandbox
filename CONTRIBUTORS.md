@@ -9,3 +9,7 @@
 Add your entry directly below this sentence.
 
 - Josh Wilke
+- John Bittinger
+- Demeterios Svingos
+
+
