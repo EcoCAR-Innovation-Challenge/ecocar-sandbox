@@ -7,5 +7,5 @@
 ## Workshop participants
 
 Add your entry directly below this sentence.
-
+- Thomas Stickland (@tstickland)
 - Josh Wilke
