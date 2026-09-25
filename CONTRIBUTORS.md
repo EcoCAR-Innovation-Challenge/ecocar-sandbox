@@ -12,3 +12,4 @@ Add your entry directly below this sentence.
 - Chris Cline
 - Daniel Williams (@daiawi), CAV Lead ERAU
 - Jackson Moody (jcksnmdy) CAV Lead HEVT
+- Rodrigo Gaet Lopez
