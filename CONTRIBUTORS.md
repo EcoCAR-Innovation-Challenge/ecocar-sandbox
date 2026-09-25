@@ -7,3 +7,5 @@
 ## Workshop participants
 
 Add your entry directly below this sentence.
+
+- Josh Wilke
