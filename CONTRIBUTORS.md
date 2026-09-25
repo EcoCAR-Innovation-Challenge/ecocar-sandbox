@@ -7,4 +7,6 @@
 ## Workshop participants
 
 Add your entry directly below this sentence.
-Aric Ting
+- Aric Ting
+- Josh Wilke
+- Chris Cline
