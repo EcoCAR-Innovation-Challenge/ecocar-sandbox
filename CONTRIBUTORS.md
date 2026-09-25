@@ -9,4 +9,5 @@
 Add your entry directly below this sentence.
 
 - Josh Wilke
-- Aric Ting (@Aric77), PCM team
+- Aric Ting
+- Chris Cline
