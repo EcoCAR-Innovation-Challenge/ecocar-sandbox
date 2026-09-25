@@ -8,4 +8,5 @@
 
 Add your entry directly below this sentence.
 
+- Rodrigo Gaeta Lopez, CAV Lead for GT
 - Josh Wilke
